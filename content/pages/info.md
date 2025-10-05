@@ -18,7 +18,7 @@ sections:
       
       I have a unique background combining automotive industry experience with modern software development. My journey started in the automotive sector where I worked as a mechanic and in warehouse operations, giving me strong problem-solving skills and attention to detail.
 
-      Now I'm focused on building my expertise in software development, particularly with C# and AI technologies. I'm actively seeking a LIA internship for 2025 where I can apply my skills and continue learning.
+      Now I'm focused on building my expertise in software development, particularly with C# and AI technologies. I'm actively seeking a LIA internship for 2026 where I can apply my skills and continue learning.
       
       When I'm not coding, you can find me exploring new technologies or working on personal projects. Check out my work on [GitHub](https://github.com/ManaInfectedRP)!
 
