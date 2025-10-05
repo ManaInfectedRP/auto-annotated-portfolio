@@ -17,7 +17,7 @@ sections:
       Hi, I'm Sebastian Larsson - Software Developer & AI Enthusiast
     subtitle: >-
       Currently studying Software Development with AI specialization at NBI/Handelsakademin. 
-      Looking for LIA internship opportunities in 2025. I'm passionate about technology 
+      Looking for LIA internship opportunities in 2026. I'm passionate about technology 
       and have experience with React, C#, Python and AI technologies.
     styles:
       self:
