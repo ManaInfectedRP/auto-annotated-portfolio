@@ -17,7 +17,7 @@ sections:
       Hi, I'm Sebastian Larsson - Software Developer & AI Enthusiast
     subtitle: >-
       Currently studying Software Development with AI specialization at NBI/Handelsakademin. 
-      Looking for LIA internship opportunities in 2025. I'm passionate about technology 
+      Looking for LIA internship opportunities in 2026. I'm passionate about technology 
       and have experience with React, C#, Python and AI technologies.
     styles:
       self:
@@ -50,11 +50,9 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
-      - content/pages/projects/project-four.md
-      - content/pages/projects/project-five.md
+      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
@@ -66,6 +64,33 @@ sections:
           - pr-4
         textAlign: left
     subtitle: Projects
+  - type: FeaturedPostsSection
+    elementId: ''
+    colors: colors-f
+    variant: variant-d
+    subtitle: Featured Posts
+    showFeaturedImage: false
+    actions:
+      - type: Link
+        label: See all posts
+        url: /blog
+    posts:
+      - content/pages/blog/post-six.md
+      - content/pages/blog/post-four.md
+      - content/pages/blog/post-three.md
+    showDate: true
+    showExcerpt: true
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-48
+          - pl-4
+          - pr-4
+        textAlign: left
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -103,11 +128,11 @@ sections:
           width: 1/2
           type: TextFormControl
         - name: updatesConsent
-          label: Sign me up to receive updates
+          label: Sign me up to recieve updates
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit 🚀"
+      submitLabel: "Submit \U0001F680"
       styles:
         self:
           textAlign: center

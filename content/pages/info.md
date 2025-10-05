@@ -14,10 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # Hey, I'm Sebastian Larsson! I'm a passionate software developer currently studying AI development at NBI/Handelsakademin in Halmstad, Sweden.
+      
+      I have a unique background combining automotive industry experience with modern software development. My journey started in the automotive sector where I worked as a mechanic and in warehouse operations, giving me strong problem-solving skills and attention to detail.
+
+      Now I'm focused on building my expertise in software development, particularly with C# and AI technologies. I'm actively seeking a LIA internship for 2025 where I can apply my skills and continue learning.
+      
+      When I'm not coding, you can find me exploring new technologies or working on personal projects. Check out my work on [GitHub](https://github.com/ManaInfectedRP)!
 
     media:
       type: ImageBlock
@@ -44,131 +47,6 @@ sections:
       self:
         width: wide
         padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    subtitle: 'You can find me here:'
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
-    columns: 3
-    spacingX: 120
-    spacingY: 16
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
           - pt-12
           - pb-12
           - pl-4
@@ -177,24 +55,24 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: 'Technical Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: 'C#'
       - type: Label
-        label: React
+        label: '.NET'
       - type: Label
-        label: Microsoft Office
+        label: 'AI Development'
       - type: Label
-        label: Next.js
+        label: 'Software Development'
       - type: Label
-        label: Netlify
+        label: 'Microsoft Office'
       - type: Label
-        label: Pancakes
+        label: 'Problem Solving'
       - type: Label
-        label: C++
+        label: 'Automotive Systems'
       - type: Label
-        label: Swift
+        label: 'Warehouse Operations'
   - type: DividerSection
     styles:
       self:
@@ -211,7 +89,13 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [sebbelarsson9601@gmail.com](mailto:sebbelarsson9601@gmail.com)
+      
+      Phone: 0768-855568
+      
+      [LinkedIn](https://www.linkedin.com/in/sebastian-larsson-b45803246/)
+      
+      [GitHub](https://github.com/ManaInfectedRP)
   - type: DividerSection
     styles:
       self:
@@ -229,42 +113,39 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: |-
-          **Current**
+          **Current Since (2024)**
 
-          * freelance @freelance.me
+          * Software Development Student with AI specialization @ NBI/Handelsakademin
 
-          **2018-2021**
+          **2023**
 
-          * fullstack at this startup
+          * Warehouse Worker & Picker @ Enyroom AB, Halmstad
 
-          **2015**
+          **2019-2020**
 
-          * senior front-end at this place
+          * Mechanic @ Göstorps Nissan Bil AB, Laholm
 
-          **2013**
+          **2018**
 
-          * intern developer at a big company
+          * Tire Picker @ Motor AB Halland Däckhotell, Halmstad
+          * Warehouse Assistant @ Hedin Bil
 
-          **2011**
+          **2014-2015**
 
-          * flipping burgers
+          * Mechanic Trainee @ YA Carlsson Snabbservice AB, Halmstad
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
         text: |-
-          **2015-2018**
+          **Current (2024)**
 
-          * ba computer sciense at a semi fancy school
+          * Software Development with AI specialization @ NBI/Handelsakademin, Halmstad
 
-          **2014**
+          **2012-2015**
 
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
+          * Vehicle & Transport Program (Truck specialization) @ Kattegattgymnasiet, Halmstad
         styles:
           self:
             textAlign: left
@@ -294,7 +175,7 @@ sections:
         borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: "Let's talk... 💬"
     colors: colors-f
     form:
       type: FormBlock
@@ -333,7 +214,7 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "Submit 🚀"
       styles:
         self:
           textAlign: center
