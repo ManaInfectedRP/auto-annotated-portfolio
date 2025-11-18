@@ -5,7 +5,7 @@ date: '2025-11-18'
 colors: colors-a
 client: Personal Project
 description: >-
-  A voice cloning and speech synthesis project that demonstrates audio processing, model adaptation, and web-based interaction for generating synthetic speech from short voice samples.
+  A voice cloning and speech synthesis project that demonstrates audio processing, model adaptation.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image7.jpg
@@ -24,13 +24,12 @@ This project showcases a practical implementation of voice cloning and speech sy
 
 - **Sample-based cloning**: Create a voice profile from a few seconds of audio
 - **Text-to-Speech generation**: Convert arbitrary text into the cloned voice
-- **Web interface**: Simple web UI for recording, uploading, and playback
 - **Model adaptation**: Fine-tune or adapt pre-trained models for speaker style
 - **Audio export**: Download synthesized speech as WAV/MP3 files
 
 ### Technical Highlights
 
-- **Languages & Frameworks**: Python, PyTorch, Streamlit/Flask for the web UI
+- **Languages & Frameworks**: Python, PyTorch
 - **Audio processing**: Mel-spectrogram conversion, noise reduction, silence trimming
 - **TTS Models & Vocoders**: Uses modern TTS pipelines (converter + vocoder) and supports integration with popular open-source model checkpoints
 - **Performance**: GPU acceleration for faster synthesis and model adaptation
