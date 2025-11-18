@@ -56,7 +56,6 @@ sections:
       - content/pages/projects/project-three.md
       - content/pages/projects/project-four.md
       - content/pages/projects/project-five.md
-      - content/pages/projects/project-six.md
     styles:
       self:
         height: auto
