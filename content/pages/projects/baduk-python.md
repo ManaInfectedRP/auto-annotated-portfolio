@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: BadukPython
 colors: colors-f
-date: '2023-12-01'
+date: '2025-12-07'
 client: Personal Project
 description: >-
   BadukPython is a free, open-source desktop application for playing Baduk (Go) written in Python. It features a 9x9 board, captured stones counter, pass and main menu buttons, and a simple, clean UI. Available for download and open source on GitHub and Itch.io.
@@ -44,4 +44,3 @@ This project helped me improve my skills in:
 
 **View on GitHub**: [BadukPython Repository](https://github.com/ManaInfectedRP/BadukPython)
 **Play on Itch.io**: [Baduk in Python](https://sebbepwnyou.itch.io/baduk-in-python)
----

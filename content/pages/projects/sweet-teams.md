@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: SweetTeams
 colors: colors-a
-date: '2024-01-15'
+date: '2026-01-15'
 client: Personal Project
 description: >-
   A Microsoft Teams-like web application with video conferencing, screen sharing, and chat functionality supporting 50+ participants. Features passwordless authentication and free deployment on Render.com.
