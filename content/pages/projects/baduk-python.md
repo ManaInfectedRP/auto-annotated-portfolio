@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: BadukPython
-colors: colors-f
+colors: colors-a
 date: '2025-12-07'
 client: Personal Project
 description: >-
