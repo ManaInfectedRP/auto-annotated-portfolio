@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { PrismLight as SyntaxHighlighter } from 'react-syntax-highlighter/dist/esm/prism-light';
+import SyntaxHighlighter from 'react-syntax-highlighter/dist/esm/prism-light';
 import js from 'react-syntax-highlighter/dist/esm/languages/prism/javascript';
 import css from 'react-syntax-highlighter/dist/esm/languages/prism/css';
 import { funky } from 'react-syntax-highlighter/dist/esm/styles/prism';
