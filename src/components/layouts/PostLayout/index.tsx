@@ -5,7 +5,8 @@ import * as React from 'react';
 
 import { DynamicComponent } from '@/components/components-registry';
 import { PageComponentProps, PostLayout } from '@/types';
-import HighlightedPreBlock from '@/utils/highlighted-markdown';
+import dynamic from 'next/dynamic';
+const HighlightedPreBlock = dynamic(() => import('@/utils/highlighted-markdown'), { ssr: false });
 import BaseLayout from '../BaseLayout';
 
 type ComponentProps = PageComponentProps & PostLayout;

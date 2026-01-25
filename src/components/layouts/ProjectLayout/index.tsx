@@ -8,7 +8,8 @@ import Link from '@/components/atoms/Link';
 import { DynamicComponent } from '@/components/components-registry';
 import ImageBlock from '@/components/molecules/ImageBlock';
 import { PageComponentProps, ProjectLayout } from '@/types';
-import HighlightedPreBlock from '@/utils/highlighted-markdown';
+import dynamic from 'next/dynamic';
+const HighlightedPreBlock = dynamic(() => import('@/utils/highlighted-markdown'), { ssr: false });
 import BaseLayout from '../BaseLayout';
 
 type ComponentProps = PageComponentProps &
