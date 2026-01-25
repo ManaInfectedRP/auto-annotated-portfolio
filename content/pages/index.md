@@ -50,13 +50,14 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
+      - content/pages/projects/sweet-teams.md
       - content/pages/projects/project-seven.md
       - content/pages/projects/project-one.md
       - content/pages/projects/project-six.md
       - content/pages/projects/project-three.md
       - content/pages/projects/project-four.md
       - content/pages/projects/project-five.md
-        - content/pages/projects/baduk-python.md
+      - content/pages/projects/baduk-python.md
     styles:
       self:
         height: auto
